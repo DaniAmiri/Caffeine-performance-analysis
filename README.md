@@ -1,5 +1,5 @@
 # Caffeine Intake and Cognitive Performance Analysis
-====================================================
+
 ## Abstract
 This project examines the short-term impact of caffeine consumption on cognitive performance. Two types of cognitive tests were performed before and after caffeine intake: mathematical performance tests (response time and accuracy) and reaction-time tests. Caffeine intake logs were combined with timestamps from both tests to measure performance improvements and analyze their relationship with caffeine dosage and timing.
 
